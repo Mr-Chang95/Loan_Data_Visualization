@@ -3,7 +3,7 @@
 
 
 ## Dataset
-This dataset contains 113,937 loans with 81 variables on each loans, including loan amount, borrower rate, current loan status, borrower income, amongst others. The dataset is provided by Prosper via Udacity.
+This dataset contains 113,937 loans with 81 variables on each loans, including loan amount, borrower rate, current loan status, borrower income, amongst others. The dataset is provided by Prosper via Udacity. You find the file (prosperLoanData.csv) isn't uploaded in the repository since we have added it to the .gitignore file. 
 
 
 ## Summary of Findings
